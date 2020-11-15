@@ -1,0 +1,11 @@
+Edited deskie.js, archive.js, packageLog.js
+
+1. Fix all quotes problems
+
+2. Fix all semi problems
+
+3. No trailing spaces problems
+
+4. Space before function problem
+
+5. Spaced comment problems
